@@ -1,0 +1,6 @@
+﻿  BibliotecaMatematica.cpp
+  Matematica.cpp
+  Generating Code...
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\C++\BibliotecaMatematica\BibliotecaMatematica\Matematica.cpp(26,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\C++\BibliotecaMatematica\BibliotecaMatematica\Matematica.cpp(31,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  BibliotecaMatematica.vcxproj -> C:\Users\mathe\OneDrive\Área de Trabalho\Estudos\C++\BibliotecaMatematica\Debug\BibliotecaMatematica.exe

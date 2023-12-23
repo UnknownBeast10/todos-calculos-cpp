@@ -1,0 +1,15 @@
+﻿  BibliotecaMatematica.cpp
+C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\BibliotecaMatematica.cpp(16,45): error C2660: 'Soma': function does not take 1 arguments
+  C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\Matematica.h(3,5):
+  see declaration of 'Soma'
+  C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\BibliotecaMatematica.cpp(16,45):
+  while trying to match the argument list '(int)'
+  
+C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\BibliotecaMatematica.cpp(16,42): error C2088: '<<': illegal for class
+C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\BibliotecaMatematica.cpp(17,45): error C2660: 'Soma': function does not take 1 arguments
+  C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\Matematica.h(3,5):
+  see declaration of 'Soma'
+  C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\BibliotecaMatematica.cpp(17,45):
+  while trying to match the argument list '(int)'
+  
+C:\Users\mathe\source\repos\BibliotecaMatematica\BibliotecaMatematica\BibliotecaMatematica.cpp(17,42): error C2088: '<<': illegal for class
